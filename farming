@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Smart Aqua | Prawn Farming</title>
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <header>
+        <h1>Smart Aqua</h1>
+        <nav>
+            <a href="#about">About</a>
+            <a href="#features">Features</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+    <section id="hero">
+        <h2>Empowering Prawn Farmers</h2>
+        <p>Your trusted partner for sustainable and profitable aquaculture.</p>
+        <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80" alt="Prawn Farming">
+    </section>
+    <section id="about">
+        <h2>About Us</h2>
+        <p>
+            Smart Aqua helps prawn farmers access cutting-edge advice and tools for productive, sustainable aquaculture. Our mission is to increase your yields and income, sharing knowledge and resources tailored specifically for Indian farming needs.
+        </p>
+    </section>
+    <section id="features">
+        <h2>Our Services & Features</h2>
+        <ul>
+            <li>Weather and price updates</li>
+            <li>Expert tips and guides</li>
+            <li>Disease diagnosis and support</li>
+            <li>Farming supply chain services</li>
+            <li>Smart Aqua community network</li>
+        </ul>
+    </section>
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: <a href="mailto:varaprasadkattula6@gmail.com">varaprasadkattula6@gmail.com</a></p>
+        <p>Phone: <a href="tel:9133446922">9133446922</a></p>
+    </section>
+    <footer>
+        <p>&copy; 2025 Smart Aqua | Designed by Varaprasad Kattula</p>
+    </footer>
+</body>
+</html>
